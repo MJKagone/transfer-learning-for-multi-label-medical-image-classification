@@ -4,6 +4,8 @@
 
 This repository contains the code and findings for a deep learning project exploring transfer learning techniques for multi-label medical image classification. The goal was to classify retinal images from the ODIR dataset into three disease categories: diabetic retinopathy (DR), glaucoma, and age-related macular degeneration (AMD). The project specifically tackles challenges related to scarce and imbalanced medical data by experimenting with different architectures, fine-tuning strategies, attention mechanisms, and loss functions.
 
+See [report.pdf](report.pdf) for a detailed write-up of the project.
+
 ## Main findings
 
 Based on the experimental evaluations, the project yielded the following insights:
